@@ -3,7 +3,7 @@ import React from 'react';
 export default {
     name: 'Crypto Demo',
     webm: 'cryptodemo.webm',
-    downloadLink: '#',
+    downloadLink: 'https://github.com/tallen11/react-native-crypto-demo',
     description: (
         <p>
             {`This little demo project pulls cryptocurrency data from an `}
@@ -19,6 +19,9 @@ export default {
             historical pricing trends of the given cryptocurrency, pulled from the API. As you
             can see in the video, the graphs are animated (using the native driver for high performance) 
             and give a pleasing aesthetic.`}
+            <br/>
+            <br/>
+            {`This project uses TypeScript and React Native 0.61.`}
         </p>
     ),
 };
