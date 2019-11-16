@@ -5,11 +5,15 @@ import PropTypes from 'prop-types';
 
 import Astronomen from './items/Astronomen';
 import CryptoDemo from './items/CryptoDemo';
+import IGStylePager from './items/IGStylePager';
 
 const Rows = [
     [
         Astronomen,
         CryptoDemo,
+    ],
+    [
+        IGStylePager,
     ],
 ];
 
