@@ -3,7 +3,7 @@ import React from 'react';
 export default {
     name: 'Instagram Style Pager Indicator',
     webm: 'igstylepager.webm',
-    downloadLink: '#',
+    downloadLink: 'https://github.com/tallen11/react-native-ig-pager-demo',
     description: (
         <p>
             {`A simple component project that implements a page indicator (the dots at the bottom)
