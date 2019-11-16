@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e813e141c93d5b83bd37a1444f5451c",
+    "revision": "5d21f2fecd1d73f38309546685021401",
     "url": "/react-native-portfolio/index.html"
   },
   {
-    "revision": "68c68e49f1d2ac526921",
+    "revision": "ba504e4731732e9622b4",
     "url": "/react-native-portfolio/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-native-portfolio/static/js/2.56459eed.chunk.js"
   },
   {
-    "revision": "68c68e49f1d2ac526921",
-    "url": "/react-native-portfolio/static/js/main.c3302e42.chunk.js"
+    "revision": "ba504e4731732e9622b4",
+    "url": "/react-native-portfolio/static/js/main.817e8ad2.chunk.js"
   },
   {
     "revision": "dbbe35995b93f3d8229b",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "034cdb82c9f0a7904708eb0938875f19",
     "url": "/react-native-portfolio/static/media/cryptodemo.034cdb82.webm"
+  },
+  {
+    "revision": "1c396fdf278be42203d6a5696ee4c72a",
+    "url": "/react-native-portfolio/static/media/igstylepager.1c396fdf.webm"
   }
 ]);
