@@ -11,7 +11,9 @@ export default {
              I was mainly intrigued by the vertical menu items on the left and wanted to implement it
              in React Native. Clearly it can be done, but it's not too robust as rotating text (or any
              type of view), doesn't account for the normal layout rules, so positioning and sizing 
-             rotated views can be difficult and needs fine tuning.`}
+             rotated views can be difficult and needs fine tuning. Coffee names taken from my favorite 
+             brand of coffee `}
+            <a href='https://counterculturecoffee.com/'>Counter Culture Coffee</a>{'.'}
             <br/>
             <br/>
             {`I was also able to experiment with some nice animations as well as displaying a Map with custom
