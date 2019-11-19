@@ -3,7 +3,7 @@ import React from 'react';
 export default {
     name: 'Coffee Shop Demo',
     webm: 'coffeeshopdemo.webm',
-    downloadLink: '#',
+    downloadLink: 'https://github.com/tallen11/react-native-coffee-shop-demo',
     description: (
         <p>
             {`A mockup of a coffee shop app, inspired by this `}
