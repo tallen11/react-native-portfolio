@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d158da4f5e7f7f5e1545a4446a4e110f",
+    "revision": "6890b87450926f20f2116988b1969694",
     "url": "/react-native-portfolio/index.html"
   },
   {
-    "revision": "76066da9e88b504f302d",
+    "revision": "63b5be8533fdfba56500",
     "url": "/react-native-portfolio/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-native-portfolio/static/js/2.56459eed.chunk.js"
   },
   {
-    "revision": "76066da9e88b504f302d",
-    "url": "/react-native-portfolio/static/js/main.a50ae382.chunk.js"
+    "revision": "63b5be8533fdfba56500",
+    "url": "/react-native-portfolio/static/js/main.ddec883c.chunk.js"
   },
   {
     "revision": "dbbe35995b93f3d8229b",
