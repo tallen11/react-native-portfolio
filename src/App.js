@@ -6,6 +6,7 @@ import PropTypes from 'prop-types';
 import Astronomen from './items/Astronomen';
 import CryptoDemo from './items/CryptoDemo';
 import IGStylePager from './items/IGStylePager';
+import CoffeeShopDemo from './items/CoffeeShopDemo';
 
 const Rows = [
     [
@@ -14,6 +15,7 @@ const Rows = [
     ],
     [
         IGStylePager,
+        CoffeeShopDemo,
     ],
 ];
 

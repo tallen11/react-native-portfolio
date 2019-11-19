@@ -20,6 +20,9 @@ export default {
              opportunity to practice my design skills. I think the app came out looking pretty nice.`}
             <br/>
             <br/>
+            {`This project uses TypeScript and React Native 0.61.`}
+            <br/>
+            <br/>
             <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a></div>
         </p>
     ),
