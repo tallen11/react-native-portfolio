@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/react-native-portfolio/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-native-portfolio/static/js/main.018c5bd6.chunk.js",
-    "main.js.map": "/react-native-portfolio/static/js/main.018c5bd6.chunk.js.map",
+    "main.js": "/react-native-portfolio/static/js/main.a50ae382.chunk.js",
+    "main.js.map": "/react-native-portfolio/static/js/main.a50ae382.chunk.js.map",
     "runtime-main.js": "/react-native-portfolio/static/js/runtime-main.3f301a09.js",
     "runtime-main.js.map": "/react-native-portfolio/static/js/runtime-main.3f301a09.js.map",
     "static/js/2.56459eed.chunk.js": "/react-native-portfolio/static/js/2.56459eed.chunk.js",
     "static/js/2.56459eed.chunk.js.map": "/react-native-portfolio/static/js/2.56459eed.chunk.js.map",
     "index.html": "/react-native-portfolio/index.html",
-    "precache-manifest.ea65e63670f2e6ee6c190f6ef068e5f9.js": "/react-native-portfolio/precache-manifest.ea65e63670f2e6ee6c190f6ef068e5f9.js",
+    "precache-manifest.ca9eba6541cd97c283b2a1ba550d3af6.js": "/react-native-portfolio/precache-manifest.ca9eba6541cd97c283b2a1ba550d3af6.js",
     "service-worker.js": "/react-native-portfolio/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/react-native-portfolio/static/css/main.b100e6da.chunk.css.map",
     "static/media/astronomen.webm": "/react-native-portfolio/static/media/astronomen.fa0ddfff.webm",
+    "static/media/coffeeshopdemo.webm": "/react-native-portfolio/static/media/coffeeshopdemo.7c085b00.webm",
     "static/media/cryptodemo.webm": "/react-native-portfolio/static/media/cryptodemo.034cdb82.webm",
     "static/media/igstylepager.webm": "/react-native-portfolio/static/media/igstylepager.1c396fdf.webm"
   },
@@ -19,6 +20,6 @@
     "static/js/runtime-main.3f301a09.js",
     "static/js/2.56459eed.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.018c5bd6.chunk.js"
+    "static/js/main.a50ae382.chunk.js"
   ]
 }
